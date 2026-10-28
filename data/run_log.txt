@@ -1,0 +1,13 @@
+Registered S3 method overwritten by 'quantmod':
+  method            from
+  as.zoo.data.frame zoo 
+
+Метрики (частки одиниці, додатні втрати):
+    symbol observations historical_VaR_95 historical_VaR_99 gaussian_VaR_95
+     SP500          750        0.01467431        0.02535502      0.01459010
+ NASDAQCOM          750        0.02061129        0.03562097      0.02003738
+ gaussian_VaR_99 historical_ES_95 gaussian_ES_95
+      0.02097591        0.0214297     0.01850557
+      0.02874124        0.0293028     0.02537416
+
+Успішно. Збережено дані, README, метрики та 3 PNG.
